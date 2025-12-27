@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "claude-mcp": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "C:/Users/Taimoor/claude root/dist/index.js"
+      ],
+      "env": {}
+    }
+  }
+}
