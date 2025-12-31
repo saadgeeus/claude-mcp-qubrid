@@ -60,7 +60,7 @@ Qubrid provides access to these models (free tier with pay-as-you-go for heavy u
 
 ### Step 2: Get API Key
 
-1. Log in to [Qubrid Platform](https://platform.qubrid.com)
+1. Log in to [Qubrid Platform](https://platform.qubrid.com/?ref=ref_saadgtsopz)
 2. Navigate to **API Keys** section (usually in Settings or Dashboard)
 3. Click **Create New API Key**
 4. Copy your API key - it looks like: `k_xxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx`
