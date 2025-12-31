@@ -54,7 +54,7 @@ Qubrid provides access to these models (free tier with pay-as-you-go for heavy u
 
 ### Step 1: Create Account
 
-1. Go to [**https://platform.qubrid.com**](https://platform.qubrid.com)
+1. Go to [**Qubrid Signup**](https://platform.qubrid.com/?ref=ref_saadgtsopz)
 2. Click **Sign Up** and create an account
 3. Verify your email
 
